@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagicTobie
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on mapping wildfire mitigation efforts in Boulder County
+- 💞️ I am mapping wildfire mitigation efforts in Boulder County
 
 <!---
 MagicTobie/MagicTobie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
